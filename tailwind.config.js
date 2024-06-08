@@ -11,6 +11,8 @@ export default {
         xl:"1.5rem",
         "2xl":"1.75rem",
         "3xl":"2.25",
+        "4xl":"3rem",
+        "5xl":"4rem"
       },
       backgroundImage: {
         'team-bg-image': "url('/public/team_png.png')",
